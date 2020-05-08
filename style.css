@@ -1,0 +1,302 @@
+.topdiv{
+    background-color: rgb(33, 116, 211);
+}
+.fb,.twitter,.youtube,.whatsapp,.insta{
+    width: 15px;
+    margin: 2px;
+    position: relative;
+    left: 15px;
+    bottom: -5px;
+    padding: 10px;
+}
+.firstp{
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+}
+.secondp{
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 155px;
+    bottom: 10px;
+}
+.cursorchange{
+    cursor: pointer;
+}
+.saylanilogo{
+    width: 230px;
+    position: relative;
+    left: 15px;
+}
+.buttonlink{
+    display: inline-block;
+    position: relative;
+    left: 340px;
+    bottom: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    cursor: pointer;
+    border-radius: 60px;
+    margin: -2px;
+    padding: 13px;
+    font-size: 15px;
+}
+.buttonlink:hover{
+    background-color: rgb(33, 116, 211);
+    color: white; 
+}
+.Home{
+    color: white;
+    background-color: rgb(33, 116, 211);
+}
+.displaypic{
+    width: 100%;
+}
+.news{
+    margin: 30px;
+    padding: 8px;
+    text-align: center;
+    background-color: rgb(33, 116, 211);
+    color: white;
+}
+.intro{
+    background-color: rgb(247, 248, 250);
+}
+.firstpara{
+    color: rgb(59, 59, 59);
+    word-spacing: 5px;
+    margin: 65px;
+    padding: 25px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 25px;
+    text-align: justify;
+}
+.images{
+    display: inline-block;
+    padding: 25px;
+    margin: 25px;
+}
+.maindiv{
+    background-color: rgb(12, 34, 238);
+}
+.icon{
+    width: 50px;
+}
+.number{
+    font-size: 35px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+}
+.info{
+    font-size:15px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+}
+.displayin{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 40px;
+    margin: 40px;
+    box-shadow: rgb(179, 170, 170) 10px 10px 10px 10px;
+    width: 20%;
+}
+.smallicon{
+    width: 65px;
+    cursor: pointer;
+}
+.smallicons{
+    width: 25px;
+    cursor: pointer;
+}
+.icontext{
+    font-size: 20px;
+    color: rgb(101, 136, 233);
+    font-family: 'Times New Roman', Times, serif;
+}
+.maindiv1{
+    background-color: whitesmoke;
+}
+.difftext{
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(101, 136, 233);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+}
+.hepa,.housing,.IT,.Thar{
+    margin: 5px;
+    padding: 20px;
+    width: 300px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.newtexts{
+    color: rgb(101, 136, 233);
+    position: relative;
+    bottom: 5px;
+    left: 30px;
+}
+.dt{
+    font-size: 20x;
+    position: relative;
+    left: 90px;
+    bottom: 150px;
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(101, 136, 233);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+}
+.sidetext{
+    width: 350px;
+    height: 150px;
+    border: 1px solid whitesmoke;
+    color: rgb(110, 110, 110);
+    word-spacing: 5px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 800px;
+    bottom: 180px;
+    margin: 20px;
+    padding: 10px;
+}
+.imageicon{
+    position: relative;
+    bottom: 150px;
+    width: 100%;
+}
+.imagepics{
+    width: 15%;
+    position: relative;
+    bottom: 150px;
+}
+.newwidth{
+    width: 100%;
+}
+.lastdiv{
+    background-color: rgb(53, 51, 51);
+    width: 100%;
+    height: 350px;
+}
+.lastP{
+    line-height: 20px;
+    margin: 15px;
+    padding: 50px;
+    color: rgb(202, 199, 199);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lasticons{
+    width: 22px;
+    position: relative;
+    bottom: 65px;
+    left: 60px;
+    margin: 3px;
+    padding: 2px;
+}
+.lastP2{
+    color: rgb(202, 199, 199);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 112px;
+    left: 90px;
+}
+.second{
+    position: relative;
+    bottom: 125px;
+}
+.secondtext{
+    position: relative;
+    bottom: 173px;
+}
+.third{
+    position: relative;
+    bottom: 185px;
+}
+.thirdtext{
+    position: relative;
+    bottom: 233px;
+}
+.fourth{
+    position: relative;
+    bottom: 245px;
+}
+.fourthtext{
+    position: relative;
+    bottom: 293px;
+}
+.worldicon{
+    width: 18px;
+    position: relative;
+    bottom: 420px;
+    left: 250px;
+    margin: 3px;
+    padding: 2px;
+}
+.international{
+    color: rgb(202, 199, 199);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 467px;
+    left: 278px;
+}
+.email{
+    width: 20px;
+    position: relative;
+    bottom: 385px;
+    left: 67px;
+}
+.emailtext{
+    color: rgb(202, 199, 199);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 423px;
+    left: 95px;
+}
+.copyright{
+    background-color:rgb(33, 116, 211);
+    padding: 3px;
+}
+.copyrighttext{
+    color: white;
+    position: relative;
+    left: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.useful{
+    position: relative;
+    bottom: 400px;
+    left: 550px;
+    font-size: 20px;
+    color: rgb(209, 205, 205);
+}
+.useful2{
+    position: relative;
+    bottom: 490px;
+    left: 550px;
+    font-size: 20px;
+    color: rgb(129, 126, 126);
+}
+.aicon{
+    width: 30px;
+    position: relative;
+    left: 845px;
+    bottom: 595px;
+    cursor: pointer;
+}
+.connect{
+    position: relative;
+    bottom: 550px;
+    left: 850px;
+    font-size: 20px;
+    color: rgb(209, 205, 205);
+}
